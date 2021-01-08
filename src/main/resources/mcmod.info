@@ -1,6 +1,6 @@
 [
 {
-  "modid": "RadioCraft_Mod",
+  "modid": "radiocraft_mod",
   "name": "RadioCraft",
   "description": "A Mod build for radio communication in Minecraft.",
   "version": "${version}",
